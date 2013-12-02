@@ -11,3 +11,8 @@ Maybe I'm just putting off studying for finals?!
 This is going to be a super wild ride. Hopefully my uploading
 this stuff is cool... if not let me know, and I'll take it all
 down!
+
+Examples in chapters are labeled as ch(chapter number)ex(example 
+number).cpp while end of chapter problems are labeled ch(chapter
+number)pr(problem number).cpp. A couple files I uploaded at the 
+start don't follow this naming scheme.
